@@ -1,0 +1,6 @@
+C:\Users\Sir_S\source\repos\Eva3Web\Eva3Model\bin\Debug\Eva3Model.dll
+C:\Users\Sir_S\source\repos\Eva3Web\Eva3Model\bin\Debug\Eva3Model.pdb
+C:\Users\Sir_S\source\repos\Eva3Web\Eva3Model\obj\Debug\Eva3Model.csproj.AssemblyReference.cache
+C:\Users\Sir_S\source\repos\Eva3Web\Eva3Model\obj\Debug\Eva3Model.csproj.CoreCompileInputs.cache
+C:\Users\Sir_S\source\repos\Eva3Web\Eva3Model\obj\Debug\Eva3Model.dll
+C:\Users\Sir_S\source\repos\Eva3Web\Eva3Model\obj\Debug\Eva3Model.pdb
